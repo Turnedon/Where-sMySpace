@@ -1,3 +1,3 @@
 # Where-sMySpace
-Windows apps\r\n
+Windows apps/r/n
 lalalalalala
